@@ -1,0 +1,1 @@
+-- handle request course where course with course ID does not exist
